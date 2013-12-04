@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Playne\n"
+"POT-Creation-Date: 2013-03-16 19:05+0100\n"
+"PO-Revision-Date: 2013-03-16 19:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: Playne Themes <support@playnethemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: /Users/Maarten/Documents/Themes/Wordpress/wp-content/"
+"themes/playne\n"
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/404.php:5
+msgid "404 error"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/404.php:12
+msgid "Page Not Found"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/404.php:16
+msgid ""
+"Sorry, but the page you are looking for has moved or no longer exists. "
+"Please use the search below, or the menu above to locate what you are "
+"looking for."
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:37
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-gallery.php:55
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-image.php:26
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-standard.php:31
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-standard.php:34
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-video.php:28
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:87
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:88
+msgid "<div class=\"line\"><span class=\"whitespace\">Read More</span></div>"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:40
+msgid "Archive By Day"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:51
+msgid "Archive By Month"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:58
+msgid "Archive By Year"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:67
+msgid "Latest Posts"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:75
+msgid "Authors"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:84
+msgid "Pages"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:93
+msgid "Categories"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:114
+msgid "<i class=\"icon-arrow-left\"></i> Newer Posts"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/custom-archive.php:115
+msgid "Older Posts <i class=\"icon-arrow-right\"></i>"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:10
+msgid "Logo image"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:20
+msgid "Logo Upload"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:27
+msgid "Favicon image"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:36
+msgid "Favicon Upload"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:43
+msgid "Header text"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:60
+msgid "Header text line 1"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:67
+msgid "Header text line 2"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:74
+msgid "Header text line 3"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/customizer.php:82
+msgid "Accent Color"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-aside.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-gallery.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-image.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-link.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-video.php:10
+msgid "0 comments"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-aside.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-gallery.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-image.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-link.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-video.php:10
+msgid "1 comment"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-aside.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-gallery.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-image.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-link.php:10
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-video.php:10
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-quote.php:4
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-standard.php:10
+msgid "0"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-standard.php:10
+msgid "1"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/format-standard.php:10
+msgid "%"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:111
+msgid "Footer 1"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:113
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:119
+msgid "Footer 2"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:121
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:127
+msgid "Footer 3"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:129
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:146
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:148
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:148
+msgid "(Edit)"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:162
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:174
+msgid "Your Name *"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:177
+msgid "Your Email *"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/functions.php:180
+msgid "Your Website"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:11
+msgid "Results for"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:13
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:15
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:17
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:19
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:21
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:23
+msgid "Archive:"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:21
+msgid "Page Not Found!"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:48
+msgid "Newer Posts"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/index.php:49
+msgid "Older Posts"
+msgstr ""
+
+#: /Users/Maarten/Documents/Themes/Wordpress/wp-content/themes/playne/searchform.php:3
+msgid "Search"
+msgstr ""
